@@ -57,6 +57,10 @@ nav{
     padding: 3em;
 
 }
+#propaganda1 {
+    background-size: cover;
+    background-position: center;
+}
 
 #AreaPrincipal{
     width: 920px;
